@@ -1,0 +1,9 @@
+Survey form
+-> Name
+-> Ph number
+-> Email id
+-> Age
+-> Skills
+-> CGPA
+-> Year of Passout
+-> Submit Button
